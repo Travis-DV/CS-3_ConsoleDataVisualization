@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\ConsoleDataVisualization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96060CF4-845E-4FD6-B7EB-92F4283C7A2F}|ConsoleDataVisualization\\ConsoleDataVisualization.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\consoledatavisualization\\consoledatavisualization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96060CF4-845E-4FD6-B7EB-92F4283C7A2F}|ConsoleDataVisualization\\ConsoleDataVisualization.csproj|solutionrelative:consoledatavisualization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96060CF4-845E-4FD6-B7EB-92F4283C7A2F}|ConsoleDataVisualization\\ConsoleDataVisualization.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\consoledatavisualization\\consoledatavisualization\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96060CF4-845E-4FD6-B7EB-92F4283C7A2F}|ConsoleDataVisualization\\ConsoleDataVisualization.csproj|solutionrelative:consoledatavisualization\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96060CF4-845E-4FD6-B7EB-92F4283C7A2F}|ConsoleDataVisualization\\ConsoleDataVisualization.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\consoledatavisualization\\consoledatavisualization\\utilitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96060CF4-845E-4FD6-B7EB-92F4283C7A2F}|ConsoleDataVisualization\\ConsoleDataVisualization.csproj|solutionrelative:consoledatavisualization\\utilitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilitys.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\ConsoleDataVisualization\\ConsoleDataVisualization\\Utilitys.cs",
+              "RelativeDocumentMoniker": "ConsoleDataVisualization\\Utilitys.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\ConsoleDataVisualization\\ConsoleDataVisualization\\Utilitys.cs",
+              "RelativeToolTip": "ConsoleDataVisualization\\Utilitys.cs",
+              "ViewState": "AQIAAAEAAAAARmZmZmb0vwkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:38:03.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\ConsoleDataVisualization\\ConsoleDataVisualization\\Validator.cs",
+              "RelativeDocumentMoniker": "ConsoleDataVisualization\\Validator.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\ConsoleDataVisualization\\ConsoleDataVisualization\\Validator.cs",
+              "RelativeToolTip": "ConsoleDataVisualization\\Validator.cs",
+              "ViewState": "AQIAAB0BAACAAAAAAIAnwDABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:37:29.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\ConsoleDataVisualization\\ConsoleDataVisualization\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleDataVisualization\\Program.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\ConsoleDataVisualization\\ConsoleDataVisualization\\Program.cs",
+              "RelativeToolTip": "ConsoleDataVisualization\\Program.cs",
+              "ViewState": "AQIAAAYAAAAACzMzMzPbvx4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:28:17.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

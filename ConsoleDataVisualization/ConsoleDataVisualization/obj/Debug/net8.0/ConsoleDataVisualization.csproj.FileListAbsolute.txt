@@ -1,0 +1,14 @@
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\bin\Debug\net8.0\ConsoleDataVisualization.exe
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\bin\Debug\net8.0\ConsoleDataVisualization.deps.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\bin\Debug\net8.0\ConsoleDataVisualization.runtimeconfig.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\bin\Debug\net8.0\ConsoleDataVisualization.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\bin\Debug\net8.0\ConsoleDataVisualization.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ConsoleDataVisualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ConsoleDataVisualization.AssemblyInfoInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ConsoleDataVisualization.AssemblyInfo.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ConsoleDataVisualization.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ConsoleDataVisualization.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\refint\ConsoleDataVisualization.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ConsoleDataVisualization.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ConsoleDataVisualization.genruntimeconfig.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\ConsoleDataVisualization\ConsoleDataVisualization\obj\Debug\net8.0\ref\ConsoleDataVisualization.dll
